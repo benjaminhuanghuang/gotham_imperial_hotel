@@ -1,0 +1,8 @@
+*.lock
+node_modules
+*.log
+.idea
+npm-debug.log
+server/db.json
+server/push-keys.js
+.DS_Store
